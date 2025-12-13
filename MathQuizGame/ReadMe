@@ -1,2 +1,30 @@
-# Math Quiz Game
-A simple console-based **Math Quiz Game** written in **C++**, designed for beginners to practice arithmetic operations with different difficulty levels.
+# 🧮 Math Quiz Game
+
+**Math Quiz Game** is an interactive console-based program written in **C++**.  
+It helps users improve their arithmetic skills through fun and challenging quizzes.  
+The game features multiple difficulty levels and various operations to keep players engaged.
+
+---
+
+## 🚀 Features
+
+### 🎯 Difficulty Levels
+- **Easy:** Numbers between 1 and 10  
+- **Medium:** Numbers between 10 and 50  
+- **Hard:** Numbers between 50 and 100  
+- **Mix:** Random numbers from 1 to 100  
+
+### ➕ Operation Types
+- **Addition (+)**  
+- **Subtraction (-)**  
+- **Multiplication (*)**  
+- **Division (/)**  
+- **Mix:** Random operation for each question  
+
+### 📝 Additional Features
+- **Randomized Questions:** Fresh set of questions each game  
+- **Instant Feedback:**
+  - **Green screen** for correct answers  
+  - **Red screen** for incorrect answers  
+- **Score Tracking:** Shows correct and incorrect answers and indicates **Pass** or **Fail**  
+- **Replay Option:** Play multiple rounds without restarting the program  
