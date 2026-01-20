@@ -11,3 +11,8 @@ with security and user management features.
 
 This version demonstrates improved
 architecture and system design.
+
+### Default Login Credentials (v2)
+
+- **Username:** Admin  
+- **Password:** 1234
