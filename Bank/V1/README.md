@@ -1,4 +1,4 @@
-# v2 – Basic Bank System
+# v1 – Basic Bank System
 
 This version focuses on core banking functionality.
 
